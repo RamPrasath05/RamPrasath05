@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RamPrasath05
-- 👀 I’m interested in ... Python and Java
-- 🌱 I’m currently learning ... C and Python
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... email:ramprasathsrs05@gmail.com
+- 📫 How to reach me email:ramprasathsrs05@gmail.com
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: ...
 
